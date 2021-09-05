@@ -1,0 +1,1 @@
+C:\Users\lzd\Desktop\amxmodx-amxmodx-1.8.2\dlls\nvault\msvc10\Debug\nvault_amxx.dll

@@ -1,0 +1,9 @@
+﻿G:\VisualStudio\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: 面向 Windows XP 的支持已被弃用，将来的 Visual Studio 版本不再提供该支持。请访问 https://go.microsoft.com/fwlink/?linkid=2023588，获取详细信息。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  JsonMngr.cpp
+  正在生成代码...
+  正在编译...
+  amxxmodule.cpp
+  JsonNatives.cpp
+  正在生成代码...
+  geoip.vcxproj -> C:\Users\lzd\Desktop\amxmodx-amxmodx-1.8.2\dlls\json\msvc10\Debug\json_amxx.dll

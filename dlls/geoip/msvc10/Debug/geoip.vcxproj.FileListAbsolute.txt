@@ -1,0 +1,1 @@
+C:\Users\lzd\Desktop\amxmodx-amxmodx-1.8.2\dlls\geoip\msvc10\Debug\geoip_amxx.dll
